@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entidades\" />
-    <Folder Include="Models\" />
     <Folder Include="Interfaces\" />
+    <Folder Include="Services\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
 
 </Project>
